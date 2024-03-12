@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.CV {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CV img{
+    width: 50%;
+    height: 50%;
+}
